@@ -30,7 +30,7 @@
                     <li><a class="nav-link scrollto" href="/#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="/#ulasan">ulasan</a></li>
                     <li><a class="nav-link scrollto" href="https://api.whatsapp.com/send?phone=6281936666423&text=Halo,%20saya%20mau%20bertanya%20tentang%20jasa%20pembuatan%20website" target="_blank">Hubungi Kami</a></li>
-                    <li><a class="nav-link scrollto" href="/login">Login</a></li>
+                    <li><a id="loginnav" class="nav-link scrollto" href="/login">Login</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>

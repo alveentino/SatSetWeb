@@ -230,6 +230,17 @@ h6 {
   }
 }
 
+#loginnav{
+  color:red;
+  border-radius: 10px;
+  border: #428bca;
+}
+
+#loginnav:hover{
+  color:darkorange;
+  border-radius: 10px;
+  border: #428bca;
+}
 /**
 * Mobile Navigation 
 */
