@@ -25,12 +25,12 @@
             <h1 class="logo"><a href="index.html"><img src="<?= base_url(); ?>/assets/img/Icon/icons8-lightning-bolt-color-glass-32.png" alt="" class="img-fluid"> &nbsp; Satset Website</a></h1>
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#paket">Paket Website</a></li>
-                    <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
-                    <li><a class="nav-link scrollto" href="#ulasan">ulasan</a></li>
+                    <li><a class="nav-link scrollto active" href="/#hero">Home</a></li>
+                    <li><a class="nav-link scrollto" href="/#paket">Paket Website</a></li>
+                    <li><a class="nav-link scrollto" href="/#portfolio">Portfolio</a></li>
+                    <li><a class="nav-link scrollto" href="/#ulasan">ulasan</a></li>
                     <li><a class="nav-link scrollto" href="https://api.whatsapp.com/send?phone=6281936666423&text=Halo,%20saya%20mau%20bertanya%20tentang%20jasa%20pembuatan%20website" target="_blank">Hubungi Kami</a></li>
-                    <li><a class="nav-link scrollto" href="#login">Login</a></li>
+                    <li><a class="nav-link scrollto" href="/login">Login</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
