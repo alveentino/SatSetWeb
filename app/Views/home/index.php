@@ -157,11 +157,9 @@
                         <div class="portfolio-wrap border">
                             <img src="<?= base_url(); ?>/assets/img/portfolio/portfolio1.png" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <a href="https://aplikasibakery.000webhostapp.com/">
-                                    <h4>Bakery APP</h4>
-                                </a>
+                                <h4>Bakery APP</h4>
                                 <div class="portfolio-links">
-                                    <a href="https://aplikasibakery.000webhostapp.com/" target="_blank" title="More Details"><i class="bi bi-link"></i></a>
+                                    <a href="https://aplikasibakery.000webhostapp.com/" target="_blank"><i class="bi bi-link"></i></a>
                                 </div>
                             </div>
                         </div>
